@@ -16,9 +16,9 @@
 
 Приложение было реализовано на языке `Python` с использованием библиотек для работы с изображениями `OpenCV`, `skimage`.
 
-### Установка
+## Установка
 
-#### Если есть интерпретатор
+### Если есть интерпретатор
 
 ```shell
 git clone https://github.com/sMeDDveD/ComputerGraphicsLab3.git
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python app\main.py
 ```
 
-#### Если все плохо
+### Если все плохо
 
 Здесь должна появится [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
