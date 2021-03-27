@@ -30,7 +30,7 @@ python app\main.py
 
 ### Если все плохо
 
-Здесь должна появится [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Здесь должна появиться [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Описание
 
