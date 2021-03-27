@@ -16,6 +16,22 @@
 
 Приложение было реализовано на языке `Python` с использованием библиотек для работы с изображениями `OpenCV`, `skimage`.
 
+### Установка
+
+#### Если есть интерпретатор
+
+```shell
+git clone https://github.com/sMeDDveD/ComputerGraphicsLab3.git
+cd ComputerGraphicsLab3
+python -m venv env && env\Scripts\activate
+pip install -r requirements.txt
+python app\main.py
+```
+
+#### Если все плохо
+
+Здесь должна появится [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Описание
 
 Интерфейс позволяет пользователю загрузить необходимое изображение и использовать необходимую ему функциональность. Для
@@ -79,20 +95,4 @@
 Не совсем то, что просилось в задании, но картинки прикольные
 ![Лена](screenshots/lena.png)
 После применения Лапласиана Гауссиана
-[ЛоГ](screenshots/lena_log.png)
-
-#### Установка
-
-##### Если есть интерпретатор
-
-```shell
-git clone https://github.com/sMeDDveD/ComputerGraphicsLab3.git
-cd ComputerGraphicsLab3
-python -m venv env && env\Scripts\activate
-pip install -r requirements.txt
-python app\main.py
-```
-
-##### Если все плохо
-
-Здесь должна появится [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![ЛоГ](screenshots/lena_log.png)
